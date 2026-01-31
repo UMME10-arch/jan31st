@@ -1,11 +1,8 @@
 class demo {
 
-void m2() {
-       
-System.out.println("m2 added")
+void m3(){
 
 }
-
 
 public static void main(String[] args) {
 
